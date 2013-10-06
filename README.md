@@ -1,6 +1,9 @@
 3DRubikCube
 ===========
 
+## Further development on this project has stopped!!
+
+
 Intuitive 3D Rubik Cube in Actionscript 3
 
 ![Rubik](/images/rubik.jpg)
